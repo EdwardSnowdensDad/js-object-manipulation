@@ -1,7 +1,8 @@
-JavaScript Object Manipulation Assignment
+# JavaScript Object Manipulation Assignment
 This project processes a list of sculpture objects and creates a new object with the length of each string value in the original objects.
 Output Example
-The first object in the sculptureListLengths array looks like this:
+
+# The first object in the sculptureListLengths array looks like this:
 javascript{
   name: 26,
   artist: 20,
@@ -9,7 +10,9 @@ javascript{
   url: 31,
   alt: 90
 }
-Complete sculptureListLengths Array
+
+# Complete sculptureListLengths Array
+
 The complete output of the sculptureListLengths array will appear here when the script is run:
 javascript[
   {
@@ -20,7 +23,8 @@ javascript[
     alt: 90
   }
 ]
-How to Run
+
+# How to Run
 Ensure you have Node.js installed on your computer:
 bash# Clone this repository
 git clone https://github.com/YourUsername/js-object-manipulation.git
@@ -30,6 +34,7 @@ cd js-object-manipulation
 
 # Run the script
 node sculptureScript.js
+
 Files
 
 sculptureScript.js: Contains the JavaScript code that processes the sculpture list
