@@ -27,7 +27,7 @@ javascript[
 # How to Run
 Ensure you have Node.js installed on your computer:
 bash# Clone this repository
-git clone https://github.com/YourUsername/js-object-manipulation.git
+git clone [(https://github.com/EdwardSnowdensDad/js-object-manipulation/tree/main)](https://github.com/EdwardSnowdensDad/js-object-manipulation/tree/main)
 
 # Navigate to the project directory
 cd js-object-manipulation
